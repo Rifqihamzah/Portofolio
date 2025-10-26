@@ -1,9 +1,34 @@
-# Portofolio
-Personal portfolio showcasing projects in UI/UX design, digital marketing analysis, and web development.
-About Me
-Hi! I’m Rifqi Hamzah, a digital enthusiast passionate about social media analytics, UI/UX website design, and meta ads analysis.
+# 🌟 Portofolio — Rifqi Hamzah
+Hi! I’m **Rifqi Hamzah**, a digital enthusiast passionate about **social media analytics, UI/UX website design, and meta ads analysis**.  
 My goal is to combine data-driven insights with creative digital strategies to build meaningful online experiences.
 
-Skills :
-🎨 UI/UX Design 
-📊 Meta Ads and Google ads
+---
+## 🧠 About Me
+🎓 Currently pursuing studies in Digital Business & Entrepreneurship  
+📍 Based in Yogyakarta  
+🌐 Interested in: Media Social Analytics, Web UI/UX, and Ads Performance Analysis  
+
+---
+Skills
+- 🎨 **UI/UX Design** — Figma 
+- 📊 **Digital Marketing & Ads** — Meta Ads, Google Ads,  
+- 🧩 **Web Design** —  WordPress, Elementor
+  
+- ---
+Featured Projects
+| Project | Description | Tools |
+|----------|--------------|-------|
+| [Tour & Travel Website Redesign](#) | Redesigned a travel agency website to improve booking flow and UX | Figma, HTML, CSS |
+| [Meta Ads Analysis Dashboard](#) | Analyzed ad campaigns and visualized performance | Meta Business Suite, Data Studio |
+| [Social Media Content Strategy](#) | Created engagement plan and metrics analysis for Instagram | Excel, Meta Insights |
+
+---
+## 🏅 Certifications & Learning
+- Google Analytics (In Progress)  
+- Meta Blueprint (Planned)  
+- Google UX Design Certificate (Planned)
+  
+---
+## 🤝 Let’s Connect
+📫 Email: **yourname@email.com**  
+🌐 LinkedIn: [[linkedin.com/in/yourusername](https://www.linkedin.com/in/rifqi-hamzah-1a5b38303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](#)  
