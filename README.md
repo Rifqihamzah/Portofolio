@@ -30,5 +30,5 @@ Featured Projects
   
 ---
 ## 🤝 Let’s Connect
-📫 Email: **yourname@email.com**  
-🌐 LinkedIn: [[linkedin.com/in/yourusername](https://www.linkedin.com/in/rifqi-hamzah-1a5b38303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](#)  
+📫 Email: **rifqihamzah124@email.com**  
+🌐 LinkedIn: [www.linkedin.com/in/rifqihamzah111](#)  
